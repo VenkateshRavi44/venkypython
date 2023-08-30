@@ -9,3 +9,4 @@ print("new one")
 print("musaraf")
 
 print("azar")
+print("asha")
